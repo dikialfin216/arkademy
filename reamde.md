@@ -1,0 +1,3 @@
+- Kegunaan JSON Pada Rest API : untuk bertukar data antar aplikasi
+- Pada Soal No 6C Saya Menggunakan Codeigniter v3
+- untuk menjalankan no 6c silahkan membuat database yang bernama arkademy2 dan import detail.sql yang telah di sediakan
